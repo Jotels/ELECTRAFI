@@ -3,7 +3,9 @@
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
 Required Notice: Copyright (c) 2026 Jonas Elsborg
-Required Notice: For commercial licensing, contact jels@dtu.dk
+
+Required Notice: For commercial licensing, contact jels@dtu.dk & arbh@dtu.dk
+
 Required Notice: Please cite this project using the metadata in CITATION.cff where appropriate.
 
 ## Acceptance
