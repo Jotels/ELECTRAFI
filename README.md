@@ -50,5 +50,5 @@ This software is provided **as is**, without warranty of any kind, to the extent
 
 For academic questions, collaborations, or commercial licensing inquiries:
 
-**Jonas Elsborg**  
+**Jonas Elsborg & Arghya Bhowmik**  
 **jels@dtu.dk & arbh@dtu.dk**
