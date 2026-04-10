@@ -21,12 +21,26 @@ Additional information is provided in [COMMERCIAL_USE.md](COMMERCIAL_USE.md).
 If you use this repository in academic research, please cite the project as:
 
 **Elsborg, Jonas, et al. "Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink." arXiv preprint arXiv:2601.19966 (2026).**
+*BibTeX:*
+
+@article{elsborg2025electra,
+  title={ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals},
+  author={Elsborg, Jonas and Thiede, Luca and Aspuru-Guzik, Al{\'a}n and Vegge, Tejs and Bhowmik, Arghya},
+  journal={arXiv preprint arXiv:2503.08305},
+  year={2025}
+}
 
 Also cite the original floating Gaussian ELECTRA paper via:
 
 **Elsborg, Jonas, et al. "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals." arXiv preprint arXiv:2503.08305 (2025).**
 
-.
+*BibTeX:*
+@article{elsborg2026global,
+  title={Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink},
+  author={Elsborg, Jonas and {\AE}rtebjerg, Felix and Thiede, Luca and Aspuru-Guzik, Al{\'a}n and Vegge, Tejs and Bhowmik, Arghya},
+  journal={arXiv preprint arXiv:2601.19966},
+  year={2026}
+}
 
 ## Warranty
 
