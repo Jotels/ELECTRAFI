@@ -30,7 +30,7 @@ If you use this repository in academic research, please cite the project as:
   year={2025}
 }
 
-Also cite the original floating Gaussian ELECTRA paper via:
+Also cite the original floating Gaussian ELECTRA paper (NeurIPS 2025) via:
 
 **Elsborg, Jonas, et al. "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals." arXiv preprint arXiv:2503.08305 (2025).**
 
