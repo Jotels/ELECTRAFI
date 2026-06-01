@@ -32,14 +32,16 @@ If you use this repository in academic research, please cite the project as:
 
 Also cite the original floating Gaussian ELECTRA paper (NeurIPS 2025) via:
 
-**Elsborg, Jonas, et al. "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals." arXiv preprint arXiv:2503.08305 (2025).**
+**Elsborg, Jonas, et al. "ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals." NeurIPS 2025.**
 
 *BibTeX:*
-@article{elsborg2025electra,
-  title={ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals},
+@article{elsborg2026electra,
+  title={Electra: A cartesian network for 3d charge density prediction with floating orbitals},
   author={Elsborg, Jonas and Thiede, Luca and Aspuru-Guzik, Al{\'a}n and Vegge, Tejs and Bhowmik, Arghya},
-  journal={arXiv preprint arXiv:2503.08305},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={28092--28121},
+  year={2026}
 }
 
 ## Warranty
