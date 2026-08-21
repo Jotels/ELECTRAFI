@@ -6,6 +6,9 @@ ELECTRAFI is an ultrafast model for predicting periodic charge densities.
 ## NOTE: Deviations from paper:
 In the paper, we report a "max_neighbors" setting of 200 on both the MP_FULL and MP_MIXED datasets. That is a mistake.
 The models were actually trained with max_neighbors = 300. 
+Similarly, the paper reports 2 attention layers in the EScAIP model, which is also wrong. The model was trained with num_layers=3. 
+
+Both of these errors have been corrected in this repo, and the parameters used here are those of the models reported in the paper.
 
 ## License
 
