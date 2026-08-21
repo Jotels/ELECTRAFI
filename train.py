@@ -135,11 +135,11 @@ def run():
             elif config["data_split"] == "mp_mixed":
                 config['escaip_config']['model']["backbone"]["max_num_nodes_per_batch"] = 154
                 config['escaip_config']['model']["backbone"]["use_compile"] = True
-                config['escaip_config']['model']["backbone"]['max_neighbors'] = 200
+                config['escaip_config']['model']["backbone"]['max_neighbors'] = 300
             elif config["data_split"] == "mpfull2025":
                 config['escaip_config']['model']["backbone"]["max_num_nodes_per_batch"] = 154
                 config['escaip_config']['model']["backbone"]["use_compile"] = True
-                config['escaip_config']['model']["backbone"]['max_neighbors'] = 200
+                config['escaip_config']['model']["backbone"]['max_neighbors'] = 300
             elif config["data_split"] == "qm9":
                 config['escaip_config']['model']["backbone"]["max_num_nodes_per_batch"] = 35
                 config['escaip_config']['model']["backbone"]["use_compile"] = True
