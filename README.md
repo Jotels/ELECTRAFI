@@ -3,6 +3,10 @@
 
 ELECTRAFI is an ultrafast model for predicting periodic charge densities.
 
+## NOTE: Deviations from paper:
+In the paper, we report a "max_neighbors" setting of 200 on both the MP_FULL and MP_MIXED datasets. That is a mistake.
+The models were actually trained with max_neighbors = 300. 
+
 ## License
 
 The repository is made available under the **PolyForm Noncommercial License 1.0.0**.
