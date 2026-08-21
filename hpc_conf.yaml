@@ -13,7 +13,7 @@ write_stage_timing_csv: True
 stage_timing_splits: ["val", "test"]
 
 # ROTATIONS
-rotate_train: True
+rotate_train: False
 rotate_val: False
 rotate_test: False
 rotate_train_center: "origin"   # or "cop", "com"
