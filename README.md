@@ -1,3 +1,6 @@
+> **Note:** For installation, inference, pretrained models, and ongoing development, please use the maintained [`neural_paw_dft`](https://github.com/aerte/neural_paw_dft) repository. It provides the current packaged implementation of ELECTRAFI together with the complete neural PAW-DFT initialization pipeline.
+>
+> This repository is retained as the paper-specific codebase for the ICML 2026 ELECTRAFI work.
 
 # Official codebase for the ELECTRAFI model and the associated ICML 2026 paper "Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink"
 
