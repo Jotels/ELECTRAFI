@@ -1,4 +1,4 @@
-> **Note:** For installation, inference, pretrained models, and ongoing development, please use the maintained [`neural_paw_dft`](https://github.com/aerte/neural_paw_dft) repository. It provides the current packaged implementation of ELECTRAFI together with the complete neural PAW-DFT initialization pipeline.
+> **Note:** For installation, inference, pretrained models, and ongoing development, please use the maintained [`neural_paw_dft`](https://github.com/aerte/neural_paw_dft) repository. It provides the current packaged implementation of ELECTRAFI together with the complete neural PAW-DFT initialization pipeline. The corresponding paper is provided on [`arxiv`](https://arxiv.org/abs/2609.21759)
 >
 > This repository is retained as the paper-specific codebase for the ICML 2026 ELECTRAFI work.
 
